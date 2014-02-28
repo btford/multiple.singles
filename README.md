@@ -10,7 +10,7 @@ see [brian.singles](https://github.com/btford/brian.singles)
 
 ## JSON spec
 
-the following fields are required:
+**the following fields are required:**
 
 ### `name`
 or whatever people call ya
@@ -21,7 +21,7 @@ whatever internet people call ya
 ### `single`
 you can probably guess what this means; boolean for simple cases, a string for everything else
 
-the following are optional:
+**the following are optional:**
 
 ### `fetishes`
 an array of strings
