@@ -27,7 +27,7 @@ you can probably guess what this means; boolean for simple cases, a string for e
 an array of strings
 
 ### `interestedIn`
-whatever you're into
+an array of strings
 
 you can also add any other fields you like – that's cool
 
